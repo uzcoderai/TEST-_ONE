@@ -1,3 +1,4 @@
 # TEST-_ONE
 "Это репозиторий предназначен для обработки алгоритмов  GitHub"
 sAMANDAR HERE
+nAZIRBEK HERE
